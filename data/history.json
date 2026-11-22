@@ -1,26 +1,4 @@
 {
-  "2026-10-22": [
-    {
-      "title": "The bridge to agent-scale Git infrastructure",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure"
-    },
-    {
-      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
-      "url": "https://blog.cloudflare.com/webmcp-commerce"
-    },
-    {
-      "title": "Introducing full transaction detection for Cloudflare WAF",
-      "url": "https://blog.cloudflare.com/full-transaction-waf"
-    },
-    {
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational"
-    },
-    {
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
-    }
-  ],
   "2026-10-23": [
     {
       "title": "AWS Continuum for code vulnerabilities is now generally available",
@@ -671,6 +649,28 @@
     {
       "title": "SailPoint、クラウドおよびオンプレミス向けアイデンティティ セキュリティのモダナイゼーション機能を発表",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tdWtvYWRzWDc3T2sxZlFaX0ZDMUJJNURISFdMUW80bHFScktaVE1UMEhqaTNyQU5QTEdpaU9sanlkVm5xQS14SlNfVHUyRVJXbTV4eTZrLU1YbS1QX0VmWWdLczBqR01odm5ZSFlqZWlOeUlZdnlvOA"
+    }
+  ],
+  "2026-11-22": [
+    {
+      "title": "KeyShot Studio 2026.3 がリリース！AIエージェント、クラウドストレージ、Part Variationsなど",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rdFU0SGlobEF0OG14YVg3UzR6M3ZSTVlSa0FPMUl5NVg5UHlPSkhQekVkOU92bGlBZ1RWZXBVWFFWZHZzYU14bll2bkVzSXB0UlNRZkZLaVhuVUxOanQ4M3g5U0s1ZFk"
+    },
+    {
+      "title": "KSG株式会社、AIバンドルモデル「KOTONOHA」を発表",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NUm51QW1mcXFteHVhU3loLVlXRnVsM2N0NU9jcXFpMnl5VnZPaHd3bi1XSHZEZUFhNHZQQkJfb1ZqWEhhSF9v"
+    },
+    {
+      "title": "Inkling 2 Mini公開、ノートPCで動くオープンウェイトモデル",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTVfdUQ3elNaZzYza0ZSTTNmdGh2RjlqaWtNSUlGUzJLV3VyUmhRMmVTa0o2OENzX2cwX3VROWkwNThhZnBrWUJ4NE95c2s5NndOcGxZdVhlMnZjSGxlemNIdVp5SmhtazIxOEQ2ek5xbjBvN1hfSGFjdV95NUxuTWg4Mlhxa1VReDFGLWhDR0pSRFAyV3c"
+    },
+    {
+      "title": "[AI-Driven Modernization] 既存コードからAIエージェント向けの仕様書を起こす「Reverse Spec Flow」を公開しました",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TV3RONXNYMHlDcU16SUFuaXR5Vi1KSWZsNGx4V3VUc3l5dWgtaGFBZHRqVXExYmtyc1pocnJfTFFOd2huMENMVTBZUTlzVExqUk5PaUVrM1Z4S0xCdlAzOEY5enNmZl9Ndkt3YlRadUg2c0hTN3diQ0dVd2s"
+    },
+    {
+      "title": "Reply.io、営業アプローチ向けオープンソースAIエージェント用ハーネスを公開",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2tEd3JHVUtXQmc1OFIzd1JyYzV2OGtCaUpvYV9ReHYyeWhtUHNwU0JjT1NBRnRMRnVvQnc2Vm00SG9CWnpzLS15NWU3dEx0UFpQaEpUT1p5S3JJXzExV0trWUFpakNCUmE0X01rR2hFWFp4dzJDelp5VlZ2dEJsQVF3Zw"
     }
   ]
 }

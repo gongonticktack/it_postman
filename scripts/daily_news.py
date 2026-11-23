@@ -378,7 +378,7 @@ def page_shell(title, content):
             '<title>' + esc(title) + '</title><meta name="theme-color" content="#161220">'
             '<link rel="stylesheet" href="theme.css?v=' + css_version + '"></head><body>'
             + nav + '<main class="wrap">' + content + '<footer>' +
-            '<div><a class="sister-site" href="https://gongonticktack.github.io/stock_daily_reports/">' +
+            '<div><a class="sister-site" href="https://stock-seeds.gongonticktack.workers.dev/daily.html">' +
             bilingual('株式NEWS を読む ↗', 'Visit STOCK NEWS ↗') + '</a></div></footer>'
             '</main>' + script + '</body></html>')
 

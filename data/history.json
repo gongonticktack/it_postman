@@ -1,26 +1,4 @@
 {
-  "2026-10-23": [
-    {
-      "title": "AWS Continuum for code vulnerabilities is now generally available",
-      "url": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available"
-    },
-    {
-      "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
-      "url": "https://blog.cloudflare.com/k-isms"
-    },
-    {
-      "title": "How bug bounty sharpens one researcher’s security skills",
-      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills"
-    },
-    {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
-    },
-    {
-      "title": "Cloudflare deploys protections against php2shell vulnerability",
-      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection"
-    }
-  ],
   "2026-10-24": [
     {
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
@@ -671,6 +649,28 @@
     {
       "title": "Reply.io、営業アプローチ向けオープンソースAIエージェント用ハーネスを公開",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2tEd3JHVUtXQmc1OFIzd1JyYzV2OGtCaUpvYV9ReHYyeWhtUHNwU0JjT1NBRnRMRnVvQnc2Vm00SG9CWnpzLS15NWU3dEx0UFpQaEpUT1p5S3JJXzExV0trWUFpakNCUmE0X01rR2hFWFp4dzJDelp5VlZ2dEJsQVF3Zw"
+    }
+  ],
+  "2026-11-23": [
+    {
+      "title": "Google、Chromeエージェントを試す偽のインターネット「Mirror Dimension」を公開",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSnZyN2NZSjY4VjVtUl9vTVBQeV9HQmIwSERsQXQxa3lVTlpUdmd3M1VHN2xneWR5eGtGUWx5bnQ3VGtuVk5HTGYzaWsycVNpT1huRjQ0Y0hGbFpBc0hhaG5PX1NXcnNpYlFWZmp0aENUUk9KMnprbElqUjR1NlRQRXNweVQxT3lSSGlETmt5MHJPSkF6Y3FGbm9uVUtzNlVlcUE"
+    },
+    {
+      "title": "韓国政府、Nvidia・AMD・Intelを招集しAI半導体サプライチェーンを点検…HBM・基板の需給難で中小ファブレスに「非常事態」",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81bEJLYzNCN1RtVndHYjFmc0dMZHN0RERhdlZIbjJMM3hrTUJXSklkNlFQOThkNE1fSm1hZEk0Qmg3MGhVWDJCT2FHaVlSblFQSi0wVkJlT0t4VENFa253X3l6QU5OLWpJN1lFbjJfSHJ3MFNt"
+    },
+    {
+      "title": "Instagramがストーリーズの投稿後編集機能を提供開始、ただし15分以内",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOVVpQWt1N05md2EtbXU1NnVMLXpDUmtqTlZkdTZOUkg5eEhXY1VpRnZ3V1AyMTF4YXZtZUxRU2lfMExSWDFtbTFYU3FLeXppM3Y4clU0ejg1ZnFWOXFrcG90Q2FvN21PN1BjbUJXV1dGeHZfeERiMEdDWkZEa1NBLTRITHNmNlk"
+    },
+    {
+      "title": "【クラウドネイティブ会議】厳格な統制と開発者体験を両立する、Wiz Baseにおけるゴールデンパスの実践",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VZVFMcVZiLWlxTWlaQUNNZ195cm5ILVlHMUx4WWpYb2xZbWhXRUlsVno1enVnMEhhcEtqNmxOQUI2SGVDYU9mc3VnUQ"
+    },
+    {
+      "title": "re:Invent 2026 の AWS Security, Identity, and Governance ガイド: セキュリティセッションの見どころ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeW5HT3JQWV90aFk1WTlFaUJQZlA3b3VxZ0dzbDBDZ3ZhRzl0NzZIUXpXbjV6bS1iV3lZOGlLMmZPbUFNby1GSUR4N2dVaGFmU0RBRWdiVWQ1SWs0QW1laDJTQ3JYOHNUY0NKR2tjeldGM01PNDByNTJGZmdQRFVnV3p2YlZ2LWpub01CNl9JamZDZEZLSW9IWnVHNzRPQnYtTlcxeA"
     }
   ]
 }

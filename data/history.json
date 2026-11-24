@@ -1,26 +1,4 @@
 {
-  "2026-10-24": [
-    {
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support"
-    },
-    {
-      "title": "Bringing post-quantum cryptography to geographically fenced key management",
-      "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager"
-    },
-    {
-      "title": "「MCP ツールボックス」Java SDK v1.0 のご紹介: 企業向けのエージェント型データアクセス",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcEtHNnZXZVNhYnlBbmdPQy1LV0R0Q2R4Mzl3elZpaDluaElzUktLaXlCT0U5R2VfOS00aUFTOFVVNnRQZjdUb2c0dEtaVklMbTkwNlhqeXEyRUE0cWZva1drZnV2eEItZENtQ21ISllPX01NTEpWRnJtVGoxdHpJMllDX1NXcFIybDdUNkFRQUZJVnRtbzZfRzN2b21KQnVPaWdJbzBRVWdHSFdPWmxnSVdIMnNUNDJLd1ZxR0IxNlFGS1JHTi01eHRTUmp6WHFGaGtTOFh3"
-    },
-    {
-      "title": "Origin Range Requests: Serving large files without range-request tuning",
-      "url": "https://blog.cloudflare.com/origin-range-requests"
-    },
-    {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot"
-    }
-  ],
   "2026-10-25": [
     {
       "title": "Anthropicが常時稼働するエージェント「Claude Duet」を発表／AMDとIntelが協業 PyTorchのx86 CPU最適化を「oneDNN」に一本化",
@@ -671,6 +649,28 @@
     {
       "title": "re:Invent 2026 の AWS Security, Identity, and Governance ガイド: セキュリティセッションの見どころ",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeW5HT3JQWV90aFk1WTlFaUJQZlA3b3VxZ0dzbDBDZ3ZhRzl0NzZIUXpXbjV6bS1iV3lZOGlLMmZPbUFNby1GSUR4N2dVaGFmU0RBRWdiVWQ1SWs0QW1laDJTQ3JYOHNUY0NKR2tjeldGM01PNDByNTJGZmdQRFVnV3p2YlZ2LWpub01CNl9JamZDZEZLSW9IWnVHNzRPQnYtTlcxeA"
+    }
+  ],
+  "2026-11-24": [
+    {
+      "title": "Google Play 開発者サービス v26.46 などが公開。保存済みカードのセキュリティコードを自動入力など",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoZWpSbUR5Wl9iRTRqODBVQ2dUWDNjS0dja081bGtnZExVN1cyUnVTQXdYaVVUTzJnZ0p6ZHZISFRfWlNLNmFMcDdaVThERmhyX0xBczc2VlZUUHVacm1CcTYxX0pQZFRkeV9ybXhCV0g5U3BuNUE"
+    },
+    {
+      "title": "NTTデータ、クラウドの脆弱性や設定不備を一元管理する「A-gate View」提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBVHVST3J6MGFwTjAxeUVpMDd3M1BTLWpTZFNVLU4yVE9nNHhRUnRJMnVjRzBTM2pTREZJU2hEdjhwVktvVFRsbGN6Q3BsaVpYSTdONWpTV3d3N1JrWDNoSQ"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack"
+    },
+    {
+      "title": "Probing DNS at Cloudflare",
+      "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare"
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals"
     }
   ]
 }

@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-24",
+  "items": [
+    {
+      "title": "Google Play 開発者サービス v26.46 などが公開。保存済みカードのセキュリティコードを自動入力など",
+      "summary": "Google Play 開発者サービス v26.46 などが公開。保存済みカードのセキュリティコードを自動入力など HelenTech",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoZWpSbUR5Wl9iRTRqODBVQ2dUWDNjS0dja081bGtnZExVN1cyUnVTQXdYaVVUTzJnZ0p6ZHZISFRfWlNLNmFMcDdaVThERmhyX0xBczc2VlZUUHVacm1CcTYxX0pQZFRkeV9ybXhCV0g5U3BuNUE",
+      "source": "HelenTech",
+      "published": "2026-11-24 11:39 JST",
+      "topic": "開発・OSS",
+      "title_ja": "Google Play 開発者サービス v26.46 などが公開。保存済みカードのセキュリティコードを自動入力など",
+      "overview": "Google Play 開発者サービス v26.46 などが公開。保存済みカードのセキュリティコードを自動入力など HelenTech",
+      "title_en": "Google Play Developer Services v26.46 and others have been released. Features such as automatic entry of the security code for saved cards",
+      "overview_en": "Google Play Developer Services v26.46 and others have been released. Features such as automatic entry of the security code for saved cards HelenTech",
+      "importance": "開発者が使えるツールや技術の選択肢に関わる可能性があります。"
+    },
+    {
+      "title": "NTTデータ、クラウドの脆弱性や設定不備を一元管理する「A-gate View」提供開始",
+      "summary": "NTTデータ、クラウドの脆弱性や設定不備を一元管理する「A-gate View」提供開始 Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBVHVST3J6MGFwTjAxeUVpMDd3M1BTLWpTZFNVLU4yVE9nNHhRUnRJMnVjRzBTM2pTREZJU2hEdjhwVktvVFRsbGN6Q3BsaVpYSTdONWpTV3d3N1JrWDNoSQ",
+      "source": "Infoseek",
+      "published": "2026-11-24 09:44 JST",
+      "topic": "クラウド",
+      "title_ja": "NTTデータ、クラウドの脆弱性や設定不備を一元管理する「A-gate View」提供開始",
+      "overview": "NTTデータ、クラウドの脆弱性や設定不備を一元管理する「A-gate View」提供開始 Infoseek",
+      "title_en": "NTT DATA launches ‘A-gate View’ to centrally manage cloud vulnerabilities and configuration flaws",
+      "overview_en": "NTT DATA launches \"A-gate View\" to centrally manage cloud vulnerabilities and configuration flaws Infoseek",
+      "importance": "クラウドサービスの機能や運用方法に関わる可能性があります。"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face",
+      "published": "2026-11-24 02:20 JST",
+      "topic": "3D・ロボット",
+      "title_ja": "RoboTrack：現実世界のロボット操作のためのポイントトラッキング",
+      "overview": "配信元から記事の概要が提供されていません。",
+      "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "overview_en": "No summary was provided by the source.",
+      "importance": "画像処理・3D・ロボティクスの技術動向を知る手掛かりになります。"
+    },
+    {
+      "title": "Probing DNS at Cloudflare",
+      "summary": "At Cloudflare we’ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS.",
+      "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare",
+      "source": "Cloudflare Blog",
+      "published": "2026-11-23 23:00 JST",
+      "topic": "クラウド",
+      "title_ja": "CloudflareでのDNSのプローブ",
+      "overview": "Cloudflareでは、チームが社内のテストフレームワークを拡張し、ネットワークプロトコルのテストツールを構築できるようにするためのツールを開発しました。これは、これをDNSにどのように使用したかというお話です。",
+      "title_en": "Probing DNS at Cloudflare",
+      "overview_en": "At Cloudflare we’ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS.",
+      "importance": "クラウドサービスの機能や運用方法に関わる可能性があります。"
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "summary": "",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face",
+      "published": "2026-11-23 09:00 JST",
+      "topic": "AI・LLM",
+      "title_ja": "エージェント的評価を構築・維持する方法",
+      "overview": "配信元から記事の概要が提供されていません。",
+      "title_en": "How to build and maintain an agentic evaluation",
+      "overview_en": "No summary was provided by the source.",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    }
+  ]
+}

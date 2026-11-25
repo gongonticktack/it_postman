@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-25",
+  "items": [
+    {
+      "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
+      "summary": "Some limits shape architecture more than any feature does. AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years. Last week the limit doubled, and in the same week Lambda learned to run on GPUs and gave […]",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026",
+      "source": "AWS News Blog",
+      "published": "2026-11-25 00:39 JST",
+      "topic": "クラウド",
+      "title_ja": "AWSウィークリーラウンドアップ：ボゴタのLocal Zone、Lambdaの30分タイムアウトなど（2026年11月24日）",
+      "overview": "一部の制限は、どの機能よりもアーキテクチャに影響を与えます。AWS Lambdaは2014年に60秒のタイムアウトでローンチされ、2015年に5分、2018年に15分に延長され、その後8年間はそのままでした。先週、この制限が2倍になり、同じ週にLambdaはGPU上で実行できるようになり、[…]",
+      "title_en": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
+      "overview_en": "Some limits shape architecture more than any feature does. AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years. Last week the limit doubled, and in the same week Lambda learned to run on GPUs and gave […]",
+      "importance": "クラウドサービスの機能や運用方法に関わる可能性があります。"
+    },
+    {
+      "title": "These are the gifts developers will actually want",
+      "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want",
+      "source": "GitHub Blog",
+      "published": "2026-11-25 01:00 JST",
+      "topic": "開発・OSS",
+      "title_ja": "これらは開発者が本当に欲しいギフトです",
+      "overview": "プレゼントを買おうとしているデベロッパーが、まだホリデーのウィッシュリストを共有していませんか？これらのギフトと、1週間を通して実施されるブラックフライデー割引をぜひご確認ください。記事「デベロッパーが本当に欲しいギフトはこちら」は、The GitHub Blogに最初に掲載されました。",
+      "title_en": "These are the gifts developers will actually want",
+      "overview_en": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog .",
+      "importance": "開発者が使えるツールや技術の選択肢に関わる可能性があります。"
+    },
+    {
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+      "source": "Google Blog AI",
+      "published": "2026-11-25 01:00 JST",
+      "topic": "AI・LLM",
+      "title_ja": "Geminiがゴールデンステートの組織とファンを変革する方法。",
+      "overview": "Google Geminiがゴールデンステートと提携し、ウォリアーズ、ヴァルキリーズ、チェイスセンターのファン体験とビジネス運営を強化します。ニュースをご覧ください。",
+      "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
+      "overview_en": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    },
+    {
+      "title": "FlashLabsのOrcaRouterがAlibabaの新モデル「Qwen4 Max」のAPI提供を開始",
+      "summary": "FlashLabsのOrcaRouterがAlibabaの新モデル「Qwen4 Max」のAPI提供を開始 ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVE52WTlmWWNrM3JNSDYybFhfbGdla1RhLXJkZHppdTFVeWVXRmptcjVqUDRPc0FyaW9abm90RDBDZzgxRl9iM1FOcDk5bVFxX3RSY2kwdmlhSVlINlhyaG1CRkpselVqc3FwX2FIVTFGXzBM",
+      "source": "ニュースメディアVOIX",
+      "published": "2026-11-24 16:22 JST",
+      "topic": "AI・LLM",
+      "title_ja": "FlashLabsのOrcaRouterがAlibabaの新モデル「Qwen4 Max」のAPI提供を開始",
+      "overview": "FlashLabsのOrcaRouterがAlibabaの新モデル「Qwen4 Max」のAPI提供を開始 ニュースメディアVOIX",
+      "title_en": "FlashLabs’ OrcaRouter launches API for Alibaba’s new model ‘Qwen4 Max’",
+      "overview_en": "FlashLabs' OrcaRouter launches API for Alibaba's new model \"Qwen4 Max\" – News media VOIX",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    },
+    {
+      "title": "OpenAIとCisco、再起動不要でLinuxを守るOSS「Shirudo」 AIエージェントが脆弱性を調査し一時的な防御策を生成",
+      "summary": "OpenAIとCisco、再起動不要でLinuxを守るOSS「Shirudo」 AIエージェントが脆弱性を調査し一時的な防御策を生成 株式会社インプレス",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BUWYyV0c3QXhFUG9MZkJ4THJmOGFnOEVpRWRGazdLUlZ5aTJJeVVCTndIVXRRUElEb096QTBBOHV2cTBRUGd0ekZUZ0hlSDdJWElObU9ta3FUbkNxTFQ2TzFXUQ",
+      "source": "株式会社インプレス",
+      "published": "2026-11-24 13:52 JST",
+      "topic": "AI・LLM",
+      "title_ja": "OpenAIとCisco、再起動不要でLinuxを守るOSS「Shirudo」 AIエージェントが脆弱性を調査し一時的な防御策を生成",
+      "overview": "OpenAIとCisco、再起動不要でLinuxを守るOSS「Shirudo」 AIエージェントが脆弱性を調査し一時的な防御策を生成 株式会社インプレス",
+      "title_en": "OpenAI and Cisco launch 'Shirudo', an OSS that protects Linux without requiring a reboot. AI agents investigate vulnerabilities and generate temporary defences.",
+      "overview_en": "OpenAI and Cisco launch ‘Shirudo’, an OSS that protects Linux without requiring a reboot. An AI agent investigates vulnerabilities and generates temporary defences. Impress Corporation.",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    }
+  ]
+}

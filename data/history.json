@@ -1,26 +1,4 @@
 {
-  "2026-10-25": [
-    {
-      "title": "Anthropicが常時稼働するエージェント「Claude Duet」を発表／AMDとIntelが協業 PyTorchのx86 CPU最適化を「oneDNN」に一本化",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VcnBQdV9uM2l5cEVaVTNzNUx6MjlSVjdDRE1yMmR2WW5pZWNSX2RMcm9PbkFQeGJQclhoWHRoT0RCd1V6c29qVzBIWjgxYzdzX2laUUh4WlB6OWVoUVhsSkdRUWlOX05CV3VsLXJmclhQSU1iaEHSAXZBVV95cUxPVXJwUHVfbjNpeXBFWlUzczVMejI5UlY3Q0RNcjJkdlluaWVjUl9kTHJvT25BUHhiUHJYaFh0aE9EQndVenNvalcwSFo4MWM3c19pWlFIeFpQejllaFFYbEpHUVFpTl9OQld1bC1yZnJYUElNYmhB"
-    },
-    {
-      "title": "Cloudflare の security-audit スキルをプロジェクトで使う方法",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFJYQjJBQ0RVRXRDWHl4RlVVRHRWRmxrdUZkLW1LQjFWYjBlMS1GMUl5bkl2dmNYZG5CTDY4bk5UWlRQTjNiT2Y0M2Ewd0ZnQ0ZyVGk2WTctUDhwd0hZTHl1WE1hYkxwV1dZUU5pSTUyRTE1U2VnX3dMX0ZIejN3VTFVTEE3Rl9CUHRrYUpaYw"
-    },
-    {
-      "title": "Nemotron 3.5 Bolt E4B登場、ロボットとゲーム向けAI",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdU1ESFhUQ09VN2ZfRV9Oc3VWamhIYUsxbVhKNmZNRVFiWEU0Y2JrZUJUTGFra0w2aWUtQjRwbGE5UE9WOVFuTXVsM1g5UVNZY3Z3V1VGNk56T2oxU0dtamo1WTFCSGNkREkwclJidzd1d0F5X2tlQlZ3aTdYVlRDOTVLZ1pDSU5xWVRiZURB"
-    },
-    {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
-    },
-    {
-      "title": "Patch the Planet：エージェントによる重大な脆弱性の発見と世界規模の対応連携",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNG5ZbDgzV19jVlhvYzVWZnVCYWhGcTR3U01OT0tFZFp6QnVrdE5PWEdmN3VqalMyZGdlTHZ3bGhBMDRXWTZxS1A3ME9MaDFYOGhxVmQ2V1RaMmR2ZlBmQnRUV2RWcENPTF80di1telVsdURDM0lOcTIzc09NVkZhWVdpb01oaDkycEE"
-    }
-  ],
   "2026-10-26": [
     {
       "title": "生成AIニュースまとめ 先週【2026年10月19日（月）〜10月25日（日）】のAI公式発表を5分でチェック",
@@ -671,6 +649,28 @@
     {
       "title": "How to build and maintain an agentic evaluation",
       "url": "https://huggingface.co/blog/agentic-evals"
+    }
+  ],
+  "2026-11-25": [
+    {
+      "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026"
+    },
+    {
+      "title": "These are the gifts developers will actually want",
+      "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want"
+    },
+    {
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state"
+    },
+    {
+      "title": "FlashLabsのOrcaRouterがAlibabaの新モデル「Qwen4 Max」のAPI提供を開始",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVE52WTlmWWNrM3JNSDYybFhfbGdla1RhLXJkZHppdTFVeWVXRmptcjVqUDRPc0FyaW9abm90RDBDZzgxRl9iM1FOcDk5bVFxX3RSY2kwdmlhSVlINlhyaG1CRkpselVqc3FwX2FIVTFGXzBM"
+    },
+    {
+      "title": "OpenAIとCisco、再起動不要でLinuxを守るOSS「Shirudo」 AIエージェントが脆弱性を調査し一時的な防御策を生成",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BUWYyV0c3QXhFUG9MZkJ4THJmOGFnOEVpRWRGazdLUlZ5aTJJeVVCTndIVXRRUElEb096QTBBOHV2cTBRUGd0ekZUZ0hlSDdJWElObU9ta3FUbkNxTFQ2TzFXUQ"
     }
   ]
 }

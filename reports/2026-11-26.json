@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-26",
+  "items": [
+    {
+      "title": "Introducing Search for Agents",
+      "summary": "Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support.",
+      "url": "https://blog.cloudflare.com/search-for-agents",
+      "source": "Cloudflare Blog",
+      "published": "2026-11-25 23:00 JST",
+      "topic": "AI・LLM",
+      "title_ja": "エージェント向け検索機能のご紹介",
+      "overview": "トグルを1つ切り替えるだけで、AIエージェントによるサイトの検索が可能になります。自動コンテンツインデックス作成、検出可能な検索API、ネイティブHTTP QUERYサポートが備わっています。",
+      "title_en": "Introducing Search for Agents",
+      "overview_en": "Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support.",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    },
+    {
+      "title": "Art of play in the age of AI",
+      "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai",
+      "source": "GitHub Blog",
+      "published": "2026-11-26 01:00 JST",
+      "topic": "AI・LLM",
+      "title_ja": "AI時代の遊びの芸術",
+      "overview": "コードのリリースがこれまで以上に速くなった今、趣味のプロジェクトに費やす時間が増えました。ここでは、開発者がこのプロセスを通じて学べることをご紹介します。記事「AI時代の遊びの芸術」は、The GitHub Blogに最初に掲載されました。",
+      "title_en": "Art of play in the age of AI",
+      "overview_en": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog .",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    },
+    {
+      "title": "How to choose the next safe step in application modernization",
+      "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "source": "GitHub Blog",
+      "published": "2026-11-26 00:00 JST",
+      "topic": "AI・LLM",
+      "title_ja": "アプリケーションのモダナイゼーションにおける次の安全なステップの選び方",
+      "overview": "レガシーアプリケーションを評価し、限定的なモダナイゼーションのステップを選択し、GitHub Copilotエージェントスキルでその方法を再利用する方法を学びましょう。記事「アプリケーションのモダナイゼーションにおける次の安全なステップの選び方」は、GitHubブログに最初に掲載されました。",
+      "title_en": "How to choose the next safe step in application modernization",
+      "overview_en": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog .",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    },
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face",
+      "published": "2026-11-26 03:52 JST",
+      "topic": "AI・LLM",
+      "title_ja": "科学者がAIエージェントに線を引く場所",
+      "overview": "配信元から記事の概要が提供されていません。",
+      "title_en": "Where scientists draw the line on AI agents",
+      "overview_en": "No summary was provided by the source.",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    },
+    {
+      "title": "An Indic Voice Agent with CUGA",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face",
+      "published": "2026-11-25 19:22 JST",
+      "topic": "AI・LLM",
+      "title_ja": "CUGA搭載のインド系言語音声エージェント",
+      "overview": "配信元から記事の概要が提供されていません。",
+      "title_en": "An Indic Voice Agent with CUGA",
+      "overview_en": "No summary was provided by the source.",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    }
+  ]
+}

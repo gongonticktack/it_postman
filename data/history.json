@@ -1,26 +1,4 @@
 {
-  "2026-10-26": [
-    {
-      "title": "生成AIニュースまとめ 先週【2026年10月19日（月）〜10月25日（日）】のAI公式発表を5分でチェック",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fbWxqU3l5Ykk4NWxfLW8zcV9KNmpTZnV5aUlWemxiNFlfeE1qT25vNXFSZjBoVmsyMDFkemhTeUVjSzFpN0ZxVUhoV3IxYjEtWDI1eVViNC0wR1RBX1hqVVZyZ1FLRVZ5VllxZEhSM3RYRzd4eVpwV1Y5bw"
-    },
-    {
-      "title": "NVIDIAがOCPで「Vera Rubin」ラック設計を公開、800V給電や光通信標準化へ：『ビジネス2.0』の視点",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2dXV1ZUS09UdFlaY0dqaHJlaWs0SkxUeDRqa2U4bW1ZaUV6R3N0VVJnX3poWDUzU0RQOFRlN1BqTThfWjJ1RmVnSXVOSUhzUUdiUEZ3bHlZUnNjQ2ZGMjY3alRaMVFPTWNFZFdmSVVfdUFMQ3NMVXVRTHZvY2J0aw"
-    },
-    {
-      "title": "Nanbeige4.3-33Bが公開、コーディングでQwen3.8-27Bに挑む",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEdVME1CZ2Z3emtIbjlUQWFuMzY3NXQtb05KN19xZFEzWmxfSEhfN0d2RUVoWXkxTzVmckdkYXFJZlk4ZWxiUThzWG1JSkJKZlZGRGswVXkyeUdlUmNCWWRpRmRoVFNtLXdCTHBzbGJ6N3NWS0RJVFd4OWNkX0s3Vw"
-    },
-    {
-      "title": "安川電機がフィジカルAIを食品工場などへ拡大、ロボットへの指示を生成AIで",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lTHhHaVFaTVhMWktQc3ctdEZyTXVqeUNtR1IxMm9tNFBlZkZZTm9GVVdaTHJldWtORm9RT2U4c1pQcUpPT1hZVVFhNVJLSWkxNWhLcWszVWswa1paNHo4TVp1bDNlOUk"
-    },
-    {
-      "title": "OpenAI、隔離したAIエージェントがCPUキャッシュ経由で通信できたと発表",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVY2UVQ0WXp3YWNaa3d3cmlsTmkxT1Z6ZTdyYUsxaVZvZy1ZUGFDd0dzdDE5Ukc1M1RoWGVyenB4Q1NSUHRfWE9Kc0FPQUtBUkFqeEpXR1libEJTbEhRYWVSVjFrR2twUGVsNVJYbUhMZF80S1UyTUs3RjhiUTRoU2ZEWnpJM2M"
-    }
-  ],
   "2026-10-27": [
     {
       "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
@@ -671,6 +649,28 @@
     {
       "title": "OpenAIとCisco、再起動不要でLinuxを守るOSS「Shirudo」 AIエージェントが脆弱性を調査し一時的な防御策を生成",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BUWYyV0c3QXhFUG9MZkJ4THJmOGFnOEVpRWRGazdLUlZ5aTJJeVVCTndIVXRRUElEb096QTBBOHV2cTBRUGd0ekZUZ0hlSDdJWElObU9ta3FUbkNxTFQ2TzFXUQ"
+    }
+  ],
+  "2026-11-26": [
+    {
+      "title": "Introducing Search for Agents",
+      "url": "https://blog.cloudflare.com/search-for-agents"
+    },
+    {
+      "title": "Art of play in the age of AI",
+      "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai"
+    },
+    {
+      "title": "How to choose the next safe step in application modernization",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization"
+    },
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+    },
+    {
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
     }
   ]
 }

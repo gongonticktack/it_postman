@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-27",
+  "items": [
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face",
+      "published": "2026-11-26 20:37 JST",
+      "topic": "IT全般",
+      "title_ja": "AMD RyzenおよびRadeon向けllama.cppベンチマークダッシュボードのご紹介",
+      "overview": "配信元から記事の概要が提供されていません。",
+      "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "overview_en": "No summary was provided by the source.",
+      "importance": "IT分野の最新動向として確認する価値があります。"
+    },
+    {
+      "title": "AWS、Amazon WorkSpacesでAIエージェントの接続・管理を支援する新機能を発表",
+      "summary": "AWS、Amazon WorkSpacesでAIエージェントの接続・管理を支援する新機能を発表 CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XdXpnV050UURDQnkxWVdlUjhfem10YVVvWVI3SVdEZTl5dUNRcTFjWUVGZEVZN25CcHR3OENoQkVOQmpLc21xcDNWR3d6QQ",
+      "source": "CodeZine",
+      "published": "2026-11-26 16:00 JST",
+      "topic": "AI・LLM",
+      "title_ja": "AWS、Amazon WorkSpacesでAIエージェントの接続・管理を支援する新機能を発表",
+      "overview": "AWS、Amazon WorkSpacesでAIエージェントの接続・管理を支援する新機能を発表 CodeZine",
+      "title_en": "AWS announces new features to support the connection and management of AI agents in Amazon WorkSpaces",
+      "overview_en": "AWS announces new features to support the connection and management of AI agents in Amazon WorkSpaces – CodeZine",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "summary": "",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face",
+      "published": "2026-11-26 09:00 JST",
+      "topic": "AI・LLM",
+      "title_ja": "群れ、群集、ギャング：マルチエージェントシステムの構築、訓練、評価の方法",
+      "overview": "配信元から記事の概要が提供されていません。",
+      "title_en": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "overview_en": "No summary was provided by the source.",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    },
+    {
+      "title": "研究者がvLLMで隔離されたAI間の隠れ通信路を公開",
+      "summary": "研究者がvLLMで隔離されたAI間の隠れ通信路を公開 Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdEc1c3Z6YmJPVDYxdTAxVUdwNThlU0ZzTmdhRm83LVAwRkZjRkM3aE1ZQnlhZ3dyMXdQM3pHU19IS0tKdm5uM0UyVTVHdzE1ZHdPbkRFWTN4Z19KY25tMV8zU1dBeWF4a2VGeHF6LVFyajBYN094aTY4MUFnN2pObw",
+      "source": "Pasquale Pillitteri",
+      "published": "2026-11-27 07:57 JST",
+      "topic": "AI・LLM",
+      "title_ja": "研究者がvLLMで隔離されたAI間の隠れ通信路を公開",
+      "overview": "研究者がvLLMで隔離されたAI間の隠れ通信路を公開 Pasquale Pillitteri",
+      "title_en": "Researchers reveal hidden communication channels between isolated AIs in vLLM",
+      "overview_en": "Researcher reveals hidden communication channels between isolated AIs in vLLM Pasquale Pillitteri",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    },
+    {
+      "title": "Naver Cloud、政府AI共通基盤に画像生成AI 公共向け機能を拡充",
+      "summary": "Naver Cloud、政府AI共通基盤に画像生成AI 公共向け機能を拡充 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmcyejZobk9XalNPMEdTT1UybWNOVVl4YUotNWlaQ2V3YngwWnJyVzlfY0pUanRmRXd3S0NnejZtdm4xNjBuczZNdkpHbFFSTE5zVXlweHRuOGk4ZEk4Y1FodEVrQ2NDa2FyNV8yaDNNV3ctWThLa185RVo3QXJGdnQ5eXhRU1ZDUHRCMVZBNVQ4SmdVbnpKajZpS3pHWmk5WFVhaVNNZk1jWDNWTGRJR1lmcE9tLWd0X1o2eWI4alZVTXRBRFE",
+      "source": "디지털투데이",
+      "published": "2026-11-26 10:11 JST",
+      "topic": "AI・LLM",
+      "title_ja": "Naver Cloud、政府AI共通基盤に画像生成AI 公共向け機能を拡充",
+      "overview": "Naver Cloud、政府AI共通基盤に画像生成AI 公共向け機能を拡充 디지털투데이",
+      "title_en": "Naver Cloud expands public-facing features of its image-generating AI for the government's common AI platform",
+      "overview_en": "Naver Cloud expands image generation AI public-facing features for the government's common AI platform Digital Today",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    }
+  ]
+}

@@ -1,26 +1,4 @@
 {
-  "2026-10-28": [
-    {
-      "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
-      "url": "https://blog.cloudflare.com/php-ctf"
-    },
-    {
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench"
-    },
-    {
-      "title": "OrcaRouter、ローカルGPUをセキュアな共有AI APIに変える新機能「Orca Connect」の提供を開始",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUUlVSbEtHemY0c25BdUJuTUVKMDV4XzdWQ1JfSjZFdVZwWk9vYkRsQXFFQjEzb2k2TktNNjZXdktuNExKVmZIcnNvR2pqVl84Nk1nOVdhZ3Jydi1OMzdGUDEwdHBiZnpfX012T3d3"
-    },
-    {
-      "title": "Rubrik、Anthropic「Claude Code」向けにAIエージェントのセキュリティ基盤「Rubrik Agent Cloud」を発表",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuR3BjT083RktwYVhyLUNteG9PTjNoVHBIVXBfaDRJbkRjMnVzWU5vYzRYcTF0LXJPZFhJMmJFWXBtcnkzMEhYQTNQaw"
-    },
-    {
-      "title": "Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3"
-    }
-  ],
   "2026-10-29": [
     {
       "title": "GitHub Universe 2026: Evolving every layer of the stack",
@@ -671,6 +649,28 @@
     {
       "title": "Naver Cloud、政府AI共通基盤に画像生成AI 公共向け機能を拡充",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmcyejZobk9XalNPMEdTT1UybWNOVVl4YUotNWlaQ2V3YngwWnJyVzlfY0pUanRmRXd3S0NnejZtdm4xNjBuczZNdkpHbFFSTE5zVXlweHRuOGk4ZEk4Y1FodEVrQ2NDa2FyNV8yaDNNV3ctWThLa185RVo3QXJGdnQ5eXhRU1ZDUHRCMVZBNVQ4SmdVbnpKajZpS3pHWmk5WFVhaVNNZk1jWDNWTGRJR1lmcE9tLWd0X1o2eWI4alZVTXRBRFE"
+    }
+  ],
+  "2026-11-28": [
+    {
+      "title": "AWS のセキュリティ新機能: API と AI エンドポイントの検出から保護までを実現",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzlIaW5keTEzVHc3NVdmR2VLaTZoRVhXZ2g5WnlFblNXUnBPSWNMcmVma2pBNmlvaTYtcXJUNGxINDZmVm9ENzdCM24wdkVkd3FaUDIzUzJnOXN5UkFicFB3NjZVMjA3bExwTVpHa2JMYmdYdjRzbThYb1M3R3BWUWhSN0lrd3IzQ2prTXlWTnBEaTRqeDJrQ0ZqOW5oRGNMdHY0TndaNmc"
+    },
+    {
+      "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TV0c0bmdyTW9KTkZiZGVWMGlSVGlSMnRQdkNsMy05RkRyMzNCMUdUOTVDZUh2NzdVUGc0QmRSM3pNcTJMbld6Y2EwMDZUUVFTclNmM1hwcTZXMlF3dF9IbFhMZlV6RGVqTEtfTDJGdmg"
+    },
+    {
+      "title": "シスコとOpenAI、eBPF基盤のオープンソースプロジェクト開始 AIエージェントが脆弱性の発見～防御まで",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Z21DQjI3TVpNSU9ZZjJjajRrWVZ0cVhKM3htQXpEQm9KVDB0dEU0SURTTHdwNTVBd3k0bmlZOWN3NTE0ZXV1MWZEX1NILTVIUFRQaEl3"
+    },
+    {
+      "title": "AI攻撃に対抗するマシン級のスピード！CiscoとOpenAIがオープンソースプロジェクト「Shirudo」を発表",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TRS1sWXoyUHU1M2l4OTlEc25oZzN0NVpwbXpYR3hkOEZoQTExMUFWdDhnOVpCbGkzcWpfdW9QNDlQZmU5cVg1N3RjN1oxUGU0N3B6M3k0MWt5YTJyWXJjMEg5Qm1jOVhPVTlEX0dyUDlTTnFkYUVMQU93"
+    },
+    {
+      "title": "SAP、セキュリティインシデントを確認 GitHubのソースコードに疑い",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEhQZVBmRkgwMGw3SUFSSW1HeHVWTVBIVHhWSTNHNnpBaW9iWHVDckRLQ2ZBTklTdXdqRFF5QWtvdGhaNHZxNnVtY1c3bWFELS1wLWxNZW9kSGVXb1VBX3FWclBiRWxscVJudkFIdGhMTXZQWDNPQnItbXJSOVJKeXdwektqVHRuVGR0NGlaMkk"
     }
   ]
 }

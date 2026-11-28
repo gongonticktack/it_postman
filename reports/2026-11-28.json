@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-28",
+  "items": [
+    {
+      "title": "AWS のセキュリティ新機能: API と AI エンドポイントの検出から保護までを実現",
+      "summary": "AWS のセキュリティ新機能: API と AI エンドポイントの検出から保護までを実現 Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzlIaW5keTEzVHc3NVdmR2VLaTZoRVhXZ2g5WnlFblNXUnBPSWNMcmVma2pBNmlvaTYtcXJUNGxINDZmVm9ENzdCM24wdkVkd3FaUDIzUzJnOXN5UkFicFB3NjZVMjA3bExwTVpHa2JMYmdYdjRzbThYb1M3R3BWUWhSN0lrd3IzQ2prTXlWTnBEaTRqeDJrQ0ZqOW5oRGNMdHY0TndaNmc",
+      "source": "Amazon Web Services",
+      "published": "2026-11-27 21:23 JST",
+      "topic": "AI・LLM",
+      "title_ja": "AWS のセキュリティ新機能: API と AI エンドポイントの検出から保護までを実現",
+      "overview": "AWS のセキュリティ新機能: API と AI エンドポイントの検出から保護までを実現 Amazon Web Services",
+      "title_en": "New AWS Security Features: From Detection to Protection for APIs and AI Endpoints",
+      "overview_en": "New AWS Security Features: From Detection to Protection for APIs and AI Endpoints Amazon Web Services",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    },
+    {
+      "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
+      "summary": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成 GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TV0c0bmdyTW9KTkZiZGVWMGlSVGlSMnRQdkNsMy05RkRyMzNCMUdUOTVDZUh2NzdVUGc0QmRSM3pNcTJMbld6Y2EwMDZUUVFTclNmM1hwcTZXMlF3dF9IbFhMZlV6RGVqTEtfTDJGdmg",
+      "source": "GIGAZINE",
+      "published": "2026-11-27 12:40 JST",
+      "topic": "AI・LLM",
+      "title_ja": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
+      "overview": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成 GIGAZINE",
+      "title_en": "NVIDIA releases its image generation AI \"Nemotron-Labs-Image-30B-A3B\", which uses an autoregressive model rather than a diffusion model, and combines it with Harness to outperform GPT-Image-2",
+      "overview_en": "NVIDIA releases image generation AI \"Nemotron-Labs-Image-30B-A3B\", which uses an autoregressive model instead of a diffusion model and, in combination with Harness, surpasses GPT-Image-2 GIGAZINE",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    },
+    {
+      "title": "シスコとOpenAI、eBPF基盤のオープンソースプロジェクト開始 AIエージェントが脆弱性の発見～防御まで",
+      "summary": "シスコとOpenAI、eBPF基盤のオープンソースプロジェクト開始 AIエージェントが脆弱性の発見～防御まで EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Z21DQjI3TVpNSU9ZZjJjajRrWVZ0cVhKM3htQXpEQm9KVDB0dEU0SURTTHdwNTVBd3k0bmlZOWN3NTE0ZXV1MWZEX1NILTVIUFRQaEl3",
+      "source": "EnterpriseZine",
+      "published": "2026-11-27 19:35 JST",
+      "topic": "AI・LLM",
+      "title_ja": "シスコとOpenAI、eBPF基盤のオープンソースプロジェクト開始 AIエージェントが脆弱性の発見～防御まで",
+      "overview": "シスコとOpenAI、eBPF基盤のオープンソースプロジェクト開始 AIエージェントが脆弱性の発見～防御まで EnterpriseZine",
+      "title_en": "Cisco and OpenAI launch an eBPF-based open-source project: AI agents from vulnerability detection to defence",
+      "overview_en": "Cisco and OpenAI launch an eBPF-based open-source project: AI agents from vulnerability detection to defence – EnterpriseZine",
+      "importance": "AIモデルの性能・利用方法や導入判断に関わる可能性があります。"
+    },
+    {
+      "title": "AI攻撃に対抗するマシン級のスピード！CiscoとOpenAIがオープンソースプロジェクト「Shirudo」を発表",
+      "summary": "AI攻撃に対抗するマシン級のスピード！CiscoとOpenAIがオープンソースプロジェクト「Shirudo」を発表 Mashdigi",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TRS1sWXoyUHU1M2l4OTlEc25oZzN0NVpwbXpYR3hkOEZoQTExMUFWdDhnOVpCbGkzcWpfdW9QNDlQZmU5cVg1N3RjN1oxUGU0N3B6M3k0MWt5YTJyWXJjMEg5Qm1jOVhPVTlEX0dyUDlTTnFkYUVMQU93",
+      "source": "Mashdigi",
+      "published": "2026-11-28 07:03 JST",
+      "topic": "開発・OSS",
+      "title_ja": "AI攻撃に対抗するマシン級のスピード！CiscoとOpenAIがオープンソースプロジェクト「Shirudo」を発表",
+      "overview": "AI攻撃に対抗するマシン級のスピード！CiscoとOpenAIがオープンソースプロジェクト「Shirudo」を発表 Mashdigi",
+      "title_en": "Machine-level speed to counter AI attacks! Cisco and OpenAI announce the open-source project \"Shirudo\"",
+      "overview_en": "Machine-level speed to counter AI attacks! Cisco and OpenAI announce the open-source project \"Shirudo\" Mashdigi",
+      "importance": "開発者が使えるツールや技術の選択肢に関わる可能性があります。"
+    },
+    {
+      "title": "SAP、セキュリティインシデントを確認 GitHubのソースコードに疑い",
+      "summary": "SAP、セキュリティインシデントを確認 GitHubのソースコードに疑い Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEhQZVBmRkgwMGw3SUFSSW1HeHVWTVBIVHhWSTNHNnpBaW9iWHVDckRLQ2ZBTklTdXdqRFF5QWtvdGhaNHZxNnVtY1c3bWFELS1wLWxNZW9kSGVXb1VBX3FWclBiRWxscVJudkFIdGhMTXZQWDNPQnItbXJSOVJKeXdwektqVHRuVGR0NGlaMkk",
+      "source": "Pasquale Pillitteri",
+      "published": "2026-11-28 02:41 JST",
+      "topic": "開発・OSS",
+      "title_ja": "SAP、セキュリティインシデントを確認 GitHubのソースコードに疑い",
+      "overview": "SAP、セキュリティインシデントを確認 GitHubのソースコードに疑い Pasquale Pillitteri",
+      "title_en": "SAP confirms security incident, suspects GitHub source code",
+      "overview_en": "SAP confirms security incident; suspicion regarding GitHub source code – Pasquale Pillitteri",
+      "importance": "開発者が使えるツールや技術の選択肢に関わる可能性があります。"
+    }
+  ]
+}
